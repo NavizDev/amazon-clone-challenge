@@ -1,3 +1,15 @@
+## Build Amazon Clone w/ Full E-Commerce + Stripe using React JS for Beginners (Challenge Day 3) by CleverProgrammerr
+
+### HomeWork Day 3
+[x] Add in the message to say ‘Hey [your email]’ on the Header Component
+[x] Deploy to firebase
+[x] Add animations i.e. React Flip Move
+[ ] Customize Amazon and style to your liking!
+
+Unit 3: [Facebook group](https://www.facebook.com/groups/229702008475161/learning_content/?filter=935599936934830&post=699680747310277)
+more info: [Clever Programmerr](https://www.facebook.com/CleverProgrammerr)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

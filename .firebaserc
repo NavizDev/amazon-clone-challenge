@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "challenge-4b2b2"
+    "staging": "clone-4ee25",
+    "default": "clone-4ee25"
   }
 }
